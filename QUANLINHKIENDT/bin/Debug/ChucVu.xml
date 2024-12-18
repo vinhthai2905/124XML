@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<ChucVus>
+	<ChucVu>
+	  <IDChucVu>1</IDChucVu>
+	  <codeChucVu>USER</codeChucVu>
+	  <tenChucVu>Ngu?i dùng</tenChucVu>
+	</ChucVu>
+	<ChucVu>
+	  <IDChucVu>2</IDChucVu>
+	  <codeChucVu>ADMIN</codeChucVu>
+	  <tenChucVu>Qu?n tr? viên</tenChucVu>
+	</ChucVu>
+	<ChucVu>
+	  <IDChucVu>3</IDChucVu>
+	  <codeChucVu>SELLER</codeChucVu>
+	  <tenChucVu>Nhân viên bán hàng</tenChucVu>
+	</ChucVu>
+</ChucVus>

@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<SanPhams>
+  <SanPham>
+    <IDSanPham>2</IDSanPham>
+    <tenSanPham> SSD Corsair MP600 CORE XT 2TB PCIe 4.0 Gen4</tenSanPham>
+    <moTa>Nhiệt độ bảo quản:-40°C to +85°C, Độ bền:450TBW, Tốc độ đọc:Up to 5,000MB/s, Tốc độ ghi:Up to 3,500MB/s</moTa>
+    <donGia>3490000</donGia>
+    <IDNhaSanXuat>4</IDNhaSanXuat>
+    <baoHanh>36</baoHanh>
+    <tinhTrangSanPham>Mới 100%</tinhTrangSanPham>
+    <soLuong>14</soLuong>
+    <hinHanh>20-236-988-01_7c79ecf51d3f4cee80a8cb4a081e6287_grande.jpg</hinHanh>
+    <IDDanhMuc>5</IDDanhMuc>
+  </SanPham>
+  <SanPham>
+    <IDSanPham>3</IDSanPham>
+    <tenSanPham>Card màn hình GIGABYTE GeForce RTX 4060 Ti AERO OC 16G</tenSanPham>
+    <moTa>Xung nhịp:2595 MHz (Reference Card: 2535 MHz), Nhân CUDA:4352, Dung lượng bộ nhớ :16 GB, Tốc độ bộ nhớ:18 Gbps</moTa>
+    <donGia>15990000</donGia>
+    <IDNhaSanXuat>3</IDNhaSanXuat>
+    <baoHanh>26 tháng</baoHanh>
+    <tinhTrangSanPham>Mới 100%</tinhTrangSanPham>
+    <soLuong>15</soLuong>
+    <hinHanh>20-236-988-01_7c79ecf51d3f4cee80a8cb4a081e6287_grande.jpg</hinHanh>
+    <IDDanhMuc>3</IDDanhMuc>
+  </SanPham>
+  <SanPham>
+    <IDSanPham>4</IDSanPham>
+    <tenSanPham>Chip i5H0002</tenSanPham>
+    <moTa>Chíp Intel I9130H</moTa>
+    <donGia>522200</donGia>
+    <IDNhaSanXuat>3</IDNhaSanXuat>
+    <baoHanh>36 tháng</baoHanh>
+    <tinhTrangSanPham>Mới 100%</tinhTrangSanPham>
+    <soLuong>20</soLuong>
+    <hinHanh>20-236-988-01_7c79ecf51d3f4cee80a8cb4a081e6287_grande.jpg</hinHanh>
+    <IDDanhMuc>2</IDDanhMuc>
+  </SanPham>
+  <SanPham>
+    <IDSanPham>6</IDSanPham>
+    <tenSanPham>Bàn Phím</tenSanPham>
+    <moTa>Xung nhịp:2595 MHz (Reference Card: 2535 MHz), Nhân CUDA:4352, Dung lượng bộ nhớ :16 GB, Tốc độ bộ nhớ:18 Gbps</moTa>
+    <donGia>123325</donGia>
+    <IDNhaSanXuat>3</IDNhaSanXuat>
+    <baoHanh>36 tháng</baoHanh>
+    <tinhTrangSanPham>Mới 100%</tinhTrangSanPham>
+    <soLuong>20</soLuong>
+    <hinHanh>20-236-988-01_7c79ecf51d3f4cee80a8cb4a081e6287_grande.jpg</hinHanh>
+    <IDDanhMuc>3</IDDanhMuc>
+  </SanPham>
+</SanPhams>

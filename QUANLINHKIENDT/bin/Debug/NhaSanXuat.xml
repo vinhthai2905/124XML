@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NhaSanXuats>
+	<NhaSanXuat>
+	  <IDNhaSanXuat>1</IDNhaSanXuat>
+	  <tenNhaSanXuat>ASUS</tenNhaSanXuat>
+	  <diaChi>Phường 12, Quận 10, Thành phố Hồ Chí Minh, Việt Nam</diaChi>
+	  <trangThai>Còn cung cấp</trangThai>
+	</NhaSanXuat>
+	<NhaSanXuat>
+	  <IDNhaSanXuat>2</IDNhaSanXuat>
+	  <tenNhaSanXuat>MSI</tenNhaSanXuat>
+	  <diaChi>Phường 7, Quận 5, Tp. Hồ Chí Minh</diaChi>
+	  <trangThai>Còn cung cấp</trangThai>
+	</NhaSanXuat>
+	<NhaSanXuat>
+	  <IDNhaSanXuat>3</IDNhaSanXuat>
+	  <tenNhaSanXuat>GIGABYTE</tenNhaSanXuat>
+	  <diaChi>Phường 4, Quận 5, TP. HCM</diaChi>
+	  <trangThai>Còn cung cấp</trangThai>
+	</NhaSanXuat>
+	<NhaSanXuat>
+	  <IDNhaSanXuat>4</IDNhaSanXuat>
+	  <tenNhaSanXuat>CORSAIR</tenNhaSanXuat>
+	  <diaChi>Phường 9, Quận 5, TP. HCM</diaChi>
+	  <trangThai>Còn cung cấp</trangThai>
+	</NhaSanXuat>
+</NhaSanXuats>

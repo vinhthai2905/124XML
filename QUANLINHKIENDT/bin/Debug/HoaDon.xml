@@ -1,0 +1,141 @@
+<?xml version="1.0" standalone="yes"?>
+<HoaDons>
+  <HoaDon>
+    <IDHoaDon>15</IDHoaDon>
+    <IDSanPham>2</IDSanPham>
+    <tenKhachHang>A</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>3490000</donGia>
+    <tongTien>6980000</tongTien>
+    <ngayThanhToan>12/15/2024 8:14:10 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>16</IDHoaDon>
+    <IDSanPham>3</IDSanPham>
+    <tenKhachHang>A</tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>15990000</donGia>
+    <tongTien>15990000</tongTien>
+    <ngayThanhToan>12/15/2024 8:14:10 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>17</IDHoaDon>
+    <IDSanPham>3</IDSanPham>
+    <tenKhachHang>ab</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>15990000</donGia>
+    <tongTien>31980000</tongTien>
+    <ngayThanhToan>12/15/2024 10:10:44 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>18</IDHoaDon>
+    <IDSanPham>3</IDSanPham>
+    <tenKhachHang>trang</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>15990000</donGia>
+    <tongTien>31980000</tongTien>
+    <ngayThanhToan>12/16/2024 3:54:03 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>19</IDHoaDon>
+    <IDSanPham>4</IDSanPham>
+    <tenKhachHang>trang</tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>522200</donGia>
+    <tongTien>522200</tongTien>
+    <ngayThanhToan>12/16/2024 3:54:03 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>20</IDHoaDon>
+    <IDSanPham>4</IDSanPham>
+    <tenKhachHang>trang23</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>522200</donGia>
+    <tongTien>1044400</tongTien>
+    <ngayThanhToan>12/16/2024 5:19:48 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>21</IDHoaDon>
+    <IDSanPham>2</IDSanPham>
+    <tenKhachHang>Thái</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>3490000</donGia>
+    <tongTien>6980000</tongTien>
+    <ngayThanhToan>12/16/2024 7:45:27 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>22</IDHoaDon>
+    <IDSanPham>4</IDSanPham>
+    <tenKhachHang>Thái</tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>522200</donGia>
+    <tongTien>522200</tongTien>
+    <ngayThanhToan>12/16/2024 7:45:27 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>23</IDHoaDon>
+    <IDSanPham>3</IDSanPham>
+    <tenKhachHang>thai</tenKhachHang>
+    <soLuong>2</soLuong>
+    <donGia>15990000</donGia>
+    <tongTien>31980000</tongTien>
+    <ngayThanhToan>12/16/2024 9:58:57 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>24</IDHoaDon>
+    <IDSanPham>4</IDSanPham>
+    <tenKhachHang>thai</tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>522200</donGia>
+    <tongTien>522200</tongTien>
+    <ngayThanhToan>12/16/2024 9:58:57 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>25</IDHoaDon>
+    <IDSanPham>3</IDSanPham>
+    <tenKhachHang>Thai</tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>15990000</donGia>
+    <tongTien>15990000</tongTien>
+    <ngayThanhToan>12/18/2024 8:20:22 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>26</IDHoaDon>
+    <IDSanPham>4</IDSanPham>
+    <tenKhachHang>Thai</tenKhachHang>
+    <soLuong>12</soLuong>
+    <donGia>522200</donGia>
+    <tongTien>6266400</tongTien>
+    <ngayThanhToan>12/18/2024 8:20:22 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>27</IDHoaDon>
+    <IDSanPham>2</IDSanPham>
+    <tenKhachHang>
+    </tenKhachHang>
+    <soLuong>1</soLuong>
+    <donGia>3490000</donGia>
+    <tongTien>3490000</tongTien>
+    <ngayThanhToan>12/18/2024 8:28:55 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>28</IDHoaDon>
+    <IDSanPham>2</IDSanPham>
+    <tenKhachHang>
+    </tenKhachHang>
+    <soLuong>3</soLuong>
+    <donGia>3490000</donGia>
+    <tongTien>10470000</tongTien>
+    <ngayThanhToan>12/18/2024 8:30:31 PM</ngayThanhToan>
+  </HoaDon>
+  <HoaDon>
+    <IDHoaDon>29</IDHoaDon>
+    <IDSanPham>2</IDSanPham>
+    <tenKhachHang>
+    </tenKhachHang>
+    <soLuong>3</soLuong>
+    <donGia>3490000</donGia>
+    <tongTien>10470000</tongTien>
+    <ngayThanhToan>12/18/2024 8:32:26 PM</ngayThanhToan>
+  </HoaDon>
+</HoaDons>

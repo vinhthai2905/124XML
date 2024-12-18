@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<TaiKhoans>
+	<TaiKhoan>
+		 <IDTaiKhoan>1</IDTaiKhoan>
+		 <username>admin</username>
+		 <password>123</password>
+		 <hoTen>Bui Vinh Thai</hoTen>
+		 <SDT>12312313</SDT>
+		 <diaChi>Ðà N?ng</diaChi>
+		 <trangThai>1</trangThai>
+		 <IDChucVu>2</IDChucVu>
+	</TaiKhoan>
+	<TaiKhoan>
+		<IDTaiKhoan>2</IDTaiKhoan>
+		<username>Tien</username>
+		<password>123</password>
+		<hoTen>Quản trị viên</hoTen>
+		<SDT>12312313</SDT>
+		<diaChi>Ðà Nẵng</diaChi>
+		<trangThai>1</trangThai>
+		<IDChucVu>2</IDChucVu>
+	</TaiKhoan>
+</TaiKhoans>

@@ -1,0 +1,21 @@
+<?xml version="1.0" standalone="yes"?>
+<NhanViens>
+  <NhanVien>
+    <IDNhanVien>3</IDNhanVien>
+    <IDChucVu>2</IDChucVu>
+    <tenNhanVien>Thái</tenNhanVien>
+    <queQuan>Đà nẵng</queQuan>
+  </NhanVien>
+  <NhanVien>
+    <IDNhanVien>4</IDNhanVien>
+    <IDChucVu>1</IDChucVu>
+    <tenNhanVien>Bùi Vĩnh Thái</tenNhanVien>
+    <queQuan>Đà nẵng</queQuan>
+  </NhanVien>
+  <NhanVien>
+    <IDNhanVien>5</IDNhanVien>
+    <IDChucVu>3</IDChucVu>
+    <tenNhanVien>TEST</tenNhanVien>
+    <queQuan>HA NOI</queQuan>
+  </NhanVien>
+</NhanViens>

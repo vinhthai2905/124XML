@@ -1,0 +1,121 @@
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+D:\XML\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+D:\THXML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+E:\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+D:\Nam3-ky1\CôngNgheXML\NHOM13\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+D:\Nam3-ky1\CôngNgheXML\NHOM13\New folder\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe.config
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.exe
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\QUANLINHKIENDT.pdb
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.AssemblyReference.cache
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.InHoaDon.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.LichSuThanhToan.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Login.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Menu.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.Properties.Resources.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QLSanPham.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.QuanLy.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.SaoLuuDuLieu.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.ThanhToan.resources
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.GenerateResource.cache
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.csproj.CoreCompileInputs.cache
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.exe
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINHKIENDT.pdb
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\EPPlus.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\EPPlus.Interfaces.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\EPPlus.System.Drawing.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Buffers.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.ComponentModel.Annotations.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Drawing.Common.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Memory.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Numerics.Vectors.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\EPPlus.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Buffers.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Drawing.Common.pdb
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Drawing.Common.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Memory.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Numerics.Vectors.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Workspace\XML\Nhóm 13_ Quản Lý Bán Linh Kiện PC\Nhóm 13_ Quản Lý Bán Linh Kiện PC\QUANLINHKIENDT\QUANLINHKIENDT\obj\Debug\QUANLINH.CDFA18FD.Up2Date

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DanhMucs>
+  <DanhMuc>
+    <IDDanhMuc>1</IDDanhMuc>
+    <tenDanhMuc>Bo mạch chủ</tenDanhMuc>
+    <moTa>bo mạch chủ là thành phần không thể thiếu trong các thiết bị công nghệ thông tin.10 điểm</moTa>
+  </DanhMuc>
+  <DanhMuc>
+    <IDDanhMuc>2</IDDanhMuc>
+    <tenDanhMuc>Bộ vi xử lý</tenDanhMuc>
+    <moTa>là một linh kiện điện tử được chế tạo từ các transistor thu nhỏ tích hợp lên trên một vi mạch tích hợp đơn. Khối xử lý trung tâm (CPU) là một bộ vi xử lý được nhiều người biết đến nhưng ngoài ra nhiều thành phần khác trong máy tính cũng có bộ vi xử lý riêng của nó, ví dụ trên card màn hình (Graphic card) chúng ta cũng có một bộ vi xử lý.</moTa>
+  </DanhMuc>
+  <DanhMuc>
+    <IDDanhMuc>4</IDDanhMuc>
+    <tenDanhMuc>HDD</tenDanhMuc>
+    <moTa>là ổ cứng truyền thống có tuổi thọ lâu đời phát minh từ 1954, được cấu tạo bởi một đĩa tròn làm bằng nhôm, thủy tinh hoặc gốm và được phủ vật liệu từ tính. Đây là bộ nhớ không thay đổi nghĩa là không bị mất dữ liệu khi ngừng cung cấp nguồn điện.</moTa>
+  </DanhMuc>
+  <DanhMuc>
+    <IDDanhMuc>5</IDDanhMuc>
+    <tenDanhMuc>SSD</tenDanhMuc>
+    <moTa>là ổ cứng điện tử lưu trữ dữ liệu trên bộ nhớ flash trạng thái rắn bằng cách sử dụng bộ nhớ bán dẫn như: SRAM, DRAM. Đồng thời, ổ cứng còn được cấu tạo bởi bộ điều khiển flash và chip nhớ flash</moTa>
+  </DanhMuc>
+</DanhMucs>
